@@ -2,6 +2,7 @@
 
 ## Overview
 
+#
 This project demonstrates the **Parallelization** workflow using LangGraph. Instead of executing tasks sequentially, the graph distributes independent subtasks to multiple worker nodes that run concurrently. The results are then collected and combined into a final output.
 
 The objective of this project is to understand how parallel execution can improve efficiency and scalability in AI workflows.
